@@ -20,7 +20,7 @@ The cd command navigates into the documents directory and the touch command crea
 Content Addition
 
 Command:
-echo "This is a sample project plan note." > plan.txt
+echo "Project plan: complete Linux lab assignment" > plan.txt 
 
 Explanation:
 This command writes a sample text into the plan.txt file, replacing any existing content.
